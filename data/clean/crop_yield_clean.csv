@@ -1,0 +1,663 @@
+year,province,crop,yield_kg_ha
+2000,Alberta,Barley,3000.0
+2001,Alberta,Barley,2900.0
+2002,Alberta,Barley,2300.0
+2003,Alberta,Barley,3000.0
+2004,Alberta,Barley,3500.0
+2005,Alberta,Barley,3600.0
+2006,Alberta,Barley,3200.0
+2007,Alberta,Barley,3000.0
+2008,Alberta,Barley,3600.0
+2009,Alberta,Barley,3100.0
+2010,Alberta,Barley,3600.0
+2011,Alberta,Barley,3600.0
+2012,Alberta,Barley,3200.0
+2013,Alberta,Barley,4100.0
+2014,Alberta,Barley,3600.0
+2015,Alberta,Barley,3700.0
+2016,Alberta,Barley,4100.0
+2017,Alberta,Barley,3900.0
+2018,Alberta,Barley,3595.0
+2019,Alberta,Barley,3890.0
+2020,Alberta,Barley,3980.0
+2021,Alberta,Barley,2551.0
+2022,Alberta,Barley,4081.0
+2023,Alberta,Barley,3384.0
+2024,Alberta,Barley,3259.0
+2025,Alberta,Barley,4340.0
+2026,Alberta,Barley,3852.0
+2000,British Columbia,Barley,3000.0
+2001,British Columbia,Barley,3100.0
+2002,British Columbia,Barley,2600.0
+2003,British Columbia,Barley,3400.0
+2004,British Columbia,Barley,3400.0
+2005,British Columbia,Barley,3000.0
+2006,British Columbia,Barley,2200.0
+2007,British Columbia,Barley,2900.0
+2008,British Columbia,Barley,2100.0
+2009,British Columbia,Barley,2800.0
+2010,British Columbia,Barley,1900.0
+2011,British Columbia,Barley,2900.0
+2012,British Columbia,Barley,3200.0
+2013,British Columbia,Barley,3500.0
+2014,British Columbia,Barley,2600.0
+2015,British Columbia,Barley,3300.0
+2016,British Columbia,Barley,3500.0
+2017,British Columbia,Barley,3200.0
+2018,British Columbia,Barley,3486.0
+2019,British Columbia,Barley,3370.0
+2020,British Columbia,Barley,2570.0
+2021,British Columbia,Barley,2203.0
+2022,British Columbia,Barley,3203.0
+2023,British Columbia,Barley,2968.0
+2024,British Columbia,Barley,2944.0
+2025,British Columbia,Barley,3964.0
+2026,British Columbia,Barley,3293.0
+2000,Manitoba,Barley,3400.0
+2001,Manitoba,Barley,2800.0
+2002,Manitoba,Barley,2900.0
+2003,Manitoba,Barley,3400.0
+2004,Manitoba,Barley,3700.0
+2005,Manitoba,Barley,2400.0
+2006,Manitoba,Barley,3400.0
+2007,Manitoba,Barley,3100.0
+2008,Manitoba,Barley,3700.0
+2009,Manitoba,Barley,3800.0
+2010,Manitoba,Barley,3000.0
+2011,Manitoba,Barley,2400.0
+2012,Manitoba,Barley,2900.0
+2013,Manitoba,Barley,4100.0
+2014,Manitoba,Barley,3100.0
+2015,Manitoba,Barley,3700.0
+2016,Manitoba,Barley,3900.0
+2017,Manitoba,Barley,4300.0
+2018,Manitoba,Barley,4052.0
+2019,Manitoba,Barley,4140.0
+2020,Manitoba,Barley,4300.0
+2021,Manitoba,Barley,2946.0
+2022,Manitoba,Barley,3995.0
+2023,Manitoba,Barley,4057.0
+2024,Manitoba,Barley,4212.0
+2025,Manitoba,Barley,4570.0
+2026,Manitoba,Barley,3910.0
+2000,New Brunswick,Barley,3500.0
+2001,New Brunswick,Barley,3200.0
+2002,New Brunswick,Barley,3700.0
+2003,New Brunswick,Barley,3300.0
+2004,New Brunswick,Barley,3100.0
+2005,New Brunswick,Barley,3200.0
+2006,New Brunswick,Barley,2300.0
+2007,New Brunswick,Barley,3400.0
+2008,New Brunswick,Barley,2900.0
+2009,New Brunswick,Barley,3100.0
+2010,New Brunswick,Barley,3100.0
+2011,New Brunswick,Barley,2100.0
+2012,New Brunswick,Barley,3100.0
+2013,New Brunswick,Barley,2900.0
+2014,New Brunswick,Barley,2900.0
+2015,New Brunswick,Barley,3600.0
+2016,New Brunswick,Barley,3500.0
+2017,New Brunswick,Barley,3700.0
+2018,New Brunswick,Barley,2856.0
+2019,New Brunswick,Barley,3659.0
+2020,New Brunswick,Barley,2340.0
+2021,New Brunswick,Barley,3337.0
+2022,New Brunswick,Barley,3546.0
+2023,New Brunswick,Barley,2935.0
+2024,New Brunswick,Barley,3529.0
+2025,New Brunswick,Barley,3799.0
+2026,New Brunswick,Barley,3422.0
+2019,Newfoundland and Labrador,Barley,0.0
+2000,Nova Scotia,Barley,3000.0
+2001,Nova Scotia,Barley,2600.0
+2002,Nova Scotia,Barley,3900.0
+2003,Nova Scotia,Barley,2900.0
+2004,Nova Scotia,Barley,2800.0
+2005,Nova Scotia,Barley,2600.0
+2006,Nova Scotia,Barley,2300.0
+2007,Nova Scotia,Barley,2700.0
+2008,Nova Scotia,Barley,3000.0
+2009,Nova Scotia,Barley,3100.0
+2010,Nova Scotia,Barley,3200.0
+2011,Nova Scotia,Barley,3000.0
+2012,Nova Scotia,Barley,3500.0
+2013,Nova Scotia,Barley,2600.0
+2014,Nova Scotia,Barley,3300.0
+2015,Nova Scotia,Barley,3400.0
+2016,Nova Scotia,Barley,3600.0
+2017,Nova Scotia,Barley,3700.0
+2018,Nova Scotia,Barley,2973.0
+2019,Nova Scotia,Barley,2819.0
+2020,Nova Scotia,Barley,2770.0
+2021,Nova Scotia,Barley,3444.0
+2022,Nova Scotia,Barley,3106.0
+2023,Nova Scotia,Barley,2928.0
+2024,Nova Scotia,Barley,2945.0
+2025,Nova Scotia,Barley,3862.0
+2026,Nova Scotia,Barley,3244.0
+2000,Ontario,Barley,3100.0
+2001,Ontario,Barley,3600.0
+2002,Ontario,Barley,3100.0
+2003,Ontario,Barley,3400.0
+2004,Ontario,Barley,3400.0
+2005,Ontario,Barley,2900.0
+2006,Ontario,Barley,3400.0
+2007,Ontario,Barley,3300.0
+2008,Ontario,Barley,3300.0
+2009,Ontario,Barley,3400.0
+2010,Ontario,Barley,3500.0
+2011,Ontario,Barley,3300.0
+2012,Ontario,Barley,3500.0
+2013,Ontario,Barley,3000.0
+2014,Ontario,Barley,3700.0
+2015,Ontario,Barley,3600.0
+2016,Ontario,Barley,3400.0
+2017,Ontario,Barley,3300.0
+2018,Ontario,Barley,3150.0
+2019,Ontario,Barley,3390.0
+2020,Ontario,Barley,3320.0
+2021,Ontario,Barley,3565.0
+2022,Ontario,Barley,4066.0
+2023,Ontario,Barley,3717.0
+2024,Ontario,Barley,4107.0
+2025,Ontario,Barley,3740.0
+2026,Ontario,Barley,3612.0
+2000,Prince Edward Island,Barley,3500.0
+2001,Prince Edward Island,Barley,2500.0
+2002,Prince Edward Island,Barley,3600.0
+2003,Prince Edward Island,Barley,2800.0
+2004,Prince Edward Island,Barley,3100.0
+2005,Prince Edward Island,Barley,3300.0
+2006,Prince Edward Island,Barley,2500.0
+2007,Prince Edward Island,Barley,2900.0
+2008,Prince Edward Island,Barley,2600.0
+2009,Prince Edward Island,Barley,2700.0
+2010,Prince Edward Island,Barley,3000.0
+2011,Prince Edward Island,Barley,3100.0
+2012,Prince Edward Island,Barley,3300.0
+2013,Prince Edward Island,Barley,3400.0
+2014,Prince Edward Island,Barley,3100.0
+2015,Prince Edward Island,Barley,3400.0
+2016,Prince Edward Island,Barley,3500.0
+2017,Prince Edward Island,Barley,3600.0
+2018,Prince Edward Island,Barley,3522.0
+2019,Prince Edward Island,Barley,3654.0
+2020,Prince Edward Island,Barley,3380.0
+2021,Prince Edward Island,Barley,3607.0
+2022,Prince Edward Island,Barley,3753.0
+2023,Prince Edward Island,Barley,2852.0
+2024,Prince Edward Island,Barley,3677.0
+2025,Prince Edward Island,Barley,3893.0
+2026,Prince Edward Island,Barley,3474.0
+2000,Quebec,Barley,3200.0
+2001,Quebec,Barley,3400.0
+2002,Quebec,Barley,3100.0
+2003,Quebec,Barley,3000.0
+2004,Quebec,Barley,3300.0
+2005,Quebec,Barley,3100.0
+2006,Quebec,Barley,2900.0
+2007,Quebec,Barley,3300.0
+2008,Quebec,Barley,2600.0
+2009,Quebec,Barley,2900.0
+2010,Quebec,Barley,3000.0
+2011,Quebec,Barley,2800.0
+2012,Quebec,Barley,3300.0
+2013,Quebec,Barley,3100.0
+2014,Quebec,Barley,3100.0
+2015,Quebec,Barley,3400.0
+2016,Quebec,Barley,3400.0
+2017,Quebec,Barley,3300.0
+2018,Quebec,Barley,2910.0
+2019,Quebec,Barley,3240.0
+2020,Quebec,Barley,2520.0
+2021,Quebec,Barley,3592.0
+2022,Quebec,Barley,3360.0
+2023,Quebec,Barley,2480.0
+2024,Quebec,Barley,3254.0
+2025,Quebec,Barley,3087.0
+2026,Quebec,Barley,2911.0
+2000,Saskatchewan,Barley,2800.0
+2001,Saskatchewan,Barley,2100.0
+2002,Saskatchewan,Barley,1800.0
+2003,Saskatchewan,Barley,2300.0
+2004,Saskatchewan,Barley,2900.0
+2005,Saskatchewan,Barley,3000.0
+2006,Saskatchewan,Barley,2600.0
+2007,Saskatchewan,Barley,2400.0
+2008,Saskatchewan,Barley,3200.0
+2009,Saskatchewan,Barley,3300.0
+2010,Saskatchewan,Barley,2600.0
+2011,Saskatchewan,Barley,3000.0
+2012,Saskatchewan,Barley,2400.0
+2013,Saskatchewan,Barley,3600.0
+2014,Saskatchewan,Barley,2900.0
+2015,Saskatchewan,Barley,3300.0
+2016,Saskatchewan,Barley,3800.0
+2017,Saskatchewan,Barley,3600.0
+2018,Saskatchewan,Barley,3372.0
+2019,Saskatchewan,Barley,3730.0
+2020,Saskatchewan,Barley,3690.0
+2021,Saskatchewan,Barley,1908.0
+2022,Saskatchewan,Barley,3409.0
+2023,Saskatchewan,Barley,3089.0
+2024,Saskatchewan,Barley,3493.0
+2025,Saskatchewan,Barley,4205.0
+2026,Saskatchewan,Barley,4076.0
+2000,Alberta,Canola,1500.0
+2001,Alberta,Canola,1500.0
+2002,Alberta,Canola,1200.0
+2003,Alberta,Canola,1700.0
+2004,Alberta,Canola,1900.0
+2005,Alberta,Canola,2100.0
+2006,Alberta,Canola,1900.0
+2007,Alberta,Canola,1700.0
+2008,Alberta,Canola,2100.0
+2009,Alberta,Canola,1800.0
+2010,Alberta,Canola,2100.0
+2011,Alberta,Canola,2200.0
+2012,Alberta,Canola,1900.0
+2013,Alberta,Canola,2400.0
+2014,Alberta,Canola,2100.0
+2015,Alberta,Canola,2300.0
+2016,Alberta,Canola,2500.0
+2017,Alberta,Canola,2400.0
+2018,Alberta,Canola,2172.0
+2019,Alberta,Canola,2259.0
+2020,Alberta,Canola,2253.0
+2021,Alberta,Canola,1621.0
+2022,Alberta,Canola,2134.0
+2023,Alberta,Canola,2250.0
+2024,Alberta,Canola,2191.0
+2025,Alberta,Canola,2544.0
+2026,Alberta,Canola,2309.0
+2000,British Columbia,Canola,1700.0
+2001,British Columbia,Canola,1400.0
+2002,British Columbia,Canola,1100.0
+2003,British Columbia,Canola,1400.0
+2004,British Columbia,Canola,1700.0
+2005,British Columbia,Canola,2100.0
+2006,British Columbia,Canola,1100.0
+2007,British Columbia,Canola,1700.0
+2008,British Columbia,Canola,1600.0
+2009,British Columbia,Canola,1700.0
+2010,British Columbia,Canola,1000.0
+2011,British Columbia,Canola,1600.0
+2012,British Columbia,Canola,1700.0
+2013,British Columbia,Canola,2200.0
+2014,British Columbia,Canola,1700.0
+2015,British Columbia,Canola,1900.0
+2016,British Columbia,Canola,2300.0
+2017,British Columbia,Canola,2000.0
+2018,British Columbia,Canola,2281.0
+2019,British Columbia,Canola,2331.0
+2020,British Columbia,Canola,1681.0
+2021,British Columbia,Canola,1600.0
+2022,British Columbia,Canola,1699.0
+2023,British Columbia,Canola,1967.0
+2024,British Columbia,Canola,1635.0
+2025,British Columbia,Canola,2372.0
+2026,British Columbia,Canola,1991.0
+2000,Manitoba,Canola,1600.0
+2001,Manitoba,Canola,1500.0
+2002,Manitoba,Canola,1700.0
+2003,Manitoba,Canola,1800.0
+2004,Manitoba,Canola,1700.0
+2005,Manitoba,Canola,1400.0
+2006,Manitoba,Canola,1800.0
+2007,Manitoba,Canola,1600.0
+2008,Manitoba,Canola,2100.0
+2009,Manitoba,Canola,2200.0
+2010,Manitoba,Canola,1800.0
+2011,Manitoba,Canola,1600.0
+2012,Manitoba,Canola,1400.0
+2013,Manitoba,Canola,2300.0
+2014,Manitoba,Canola,2000.0
+2015,Manitoba,Canola,2200.0
+2016,Manitoba,Canola,2100.0
+2017,Manitoba,Canola,2500.0
+2018,Manitoba,Canola,2427.0
+2019,Manitoba,Canola,2354.0
+2020,Manitoba,Canola,2321.0
+2021,Manitoba,Canola,2041.0
+2022,Manitoba,Canola,2427.0
+2023,Manitoba,Canola,2499.0
+2024,Manitoba,Canola,2253.0
+2025,Manitoba,Canola,2651.0
+2026,Manitoba,Canola,2404.0
+2012,New Brunswick,Canola,2200.0
+2013,New Brunswick,Canola,2000.0
+2018,New Brunswick,Canola,1933.0
+2019,New Brunswick,Canola,2093.0
+2020,New Brunswick,Canola,2358.0
+2022,New Brunswick,Canola,2513.0
+2023,New Brunswick,Canola,2555.0
+2024,New Brunswick,Canola,3040.0
+2025,New Brunswick,Canola,2775.0
+2019,Newfoundland and Labrador,Canola,0.0
+2000,Ontario,Canola,2100.0
+2001,Ontario,Canola,2200.0
+2002,Ontario,Canola,1800.0
+2003,Ontario,Canola,2000.0
+2004,Ontario,Canola,2100.0
+2005,Ontario,Canola,1400.0
+2006,Ontario,Canola,2300.0
+2007,Ontario,Canola,1900.0
+2008,Ontario,Canola,2200.0
+2009,Ontario,Canola,2200.0
+2010,Ontario,Canola,2300.0
+2011,Ontario,Canola,2100.0
+2012,Ontario,Canola,2000.0
+2013,Ontario,Canola,2100.0
+2014,Ontario,Canola,2400.0
+2015,Ontario,Canola,2400.0
+2016,Ontario,Canola,2300.0
+2017,Ontario,Canola,2600.0
+2018,Ontario,Canola,2641.0
+2019,Ontario,Canola,2421.0
+2020,Ontario,Canola,2574.0
+2021,Ontario,Canola,2410.0
+2022,Ontario,Canola,2850.0
+2023,Ontario,Canola,2992.0
+2024,Ontario,Canola,2763.0
+2025,Ontario,Canola,2789.0
+2026,Ontario,Canola,2853.0
+2019,Prince Edward Island,Canola,2279.0
+2000,Quebec,Canola,2100.0
+2001,Quebec,Canola,2200.0
+2002,Quebec,Canola,2200.0
+2003,Quebec,Canola,2200.0
+2004,Quebec,Canola,2200.0
+2005,Quebec,Canola,1900.0
+2006,Quebec,Canola,2100.0
+2007,Quebec,Canola,2200.0
+2008,Quebec,Canola,1800.0
+2009,Quebec,Canola,2000.0
+2010,Quebec,Canola,2000.0
+2011,Quebec,Canola,2200.0
+2012,Quebec,Canola,2000.0
+2013,Quebec,Canola,2200.0
+2014,Quebec,Canola,2100.0
+2015,Quebec,Canola,2200.0
+2016,Quebec,Canola,2400.0
+2017,Quebec,Canola,2500.0
+2018,Quebec,Canola,2456.0
+2019,Quebec,Canola,2214.0
+2020,Quebec,Canola,2166.0
+2021,Quebec,Canola,2399.0
+2022,Quebec,Canola,2336.0
+2023,Quebec,Canola,2292.0
+2024,Quebec,Canola,2342.0
+2025,Quebec,Canola,2247.0
+2026,Quebec,Canola,2292.0
+2000,Saskatchewan,Canola,1400.0
+2001,Saskatchewan,Canola,1100.0
+2002,Saskatchewan,Canola,1000.0
+2003,Saskatchewan,Canola,1200.0
+2004,Saskatchewan,Canola,1300.0
+2005,Saskatchewan,Canola,1800.0
+2006,Saskatchewan,Canola,1500.0
+2007,Saskatchewan,Canola,1400.0
+2008,Saskatchewan,Canola,1800.0
+2009,Saskatchewan,Canola,2000.0
+2010,Saskatchewan,Canola,1700.0
+2011,Saskatchewan,Canola,1800.0
+2012,Saskatchewan,Canola,1400.0
+2013,Saskatchewan,Canola,2100.0
+2014,Saskatchewan,Canola,1800.0
+2015,Saskatchewan,Canola,2100.0
+2016,Saskatchewan,Canola,2400.0
+2017,Saskatchewan,Canola,2200.0
+2018,Saskatchewan,Canola,2282.0
+2019,Saskatchewan,Canola,2396.0
+2020,Saskatchewan,Canola,2395.0
+2021,Saskatchewan,Canola,1445.0
+2022,Saskatchewan,Canola,2161.0
+2023,Saskatchewan,Canola,2093.0
+2024,Saskatchewan,Canola,2146.0
+2025,Saskatchewan,Canola,2535.0
+2026,Saskatchewan,Canola,2348.0
+2000,Alberta,Wheat,2500.0
+2001,Alberta,Wheat,2200.0
+2002,Alberta,Wheat,1900.0
+2003,Alberta,Wheat,2600.0
+2004,Alberta,Wheat,3100.0
+2005,Alberta,Wheat,3200.0
+2006,Alberta,Wheat,2900.0
+2007,Alberta,Wheat,2600.0
+2008,Alberta,Wheat,3200.0
+2009,Alberta,Wheat,2800.0
+2010,Alberta,Wheat,3200.0
+2011,Alberta,Wheat,3300.0
+2012,Alberta,Wheat,3200.0
+2013,Alberta,Wheat,3900.0
+2014,Alberta,Wheat,3400.0
+2015,Alberta,Wheat,3100.0
+2016,Alberta,Wheat,3900.0
+2017,Alberta,Wheat,3500.0
+2018,Alberta,Wheat,3345.0
+2019,Alberta,Wheat,3518.0
+2020,Alberta,Wheat,3750.0
+2021,Alberta,Wheat,2346.0
+2022,Alberta,Wheat,3742.0
+2023,Alberta,Wheat,3021.0
+2024,Alberta,Wheat,3228.0
+2025,Alberta,Wheat,3834.0
+2026,Alberta,Wheat,3664.0
+2000,British Columbia,Wheat,2700.0
+2001,British Columbia,Wheat,2800.0
+2002,British Columbia,Wheat,2700.0
+2003,British Columbia,Wheat,2700.0
+2004,British Columbia,Wheat,2500.0
+2005,British Columbia,Wheat,3200.0
+2006,British Columbia,Wheat,1900.0
+2007,British Columbia,Wheat,3000.0
+2008,British Columbia,Wheat,1900.0
+2009,British Columbia,Wheat,2300.0
+2010,British Columbia,Wheat,1800.0
+2011,British Columbia,Wheat,3900.0
+2012,British Columbia,Wheat,3200.0
+2013,British Columbia,Wheat,4000.0
+2014,British Columbia,Wheat,2900.0
+2015,British Columbia,Wheat,3400.0
+2016,British Columbia,Wheat,3900.0
+2017,British Columbia,Wheat,3600.0
+2018,British Columbia,Wheat,3796.0
+2019,British Columbia,Wheat,3821.0
+2020,British Columbia,Wheat,2919.0
+2021,British Columbia,Wheat,2492.0
+2022,British Columbia,Wheat,3299.0
+2023,British Columbia,Wheat,2476.0
+2024,British Columbia,Wheat,2909.0
+2025,British Columbia,Wheat,3762.0
+2026,British Columbia,Wheat,2777.0
+2000,Manitoba,Wheat,2700.0
+2001,Manitoba,Wheat,2200.0
+2002,Manitoba,Wheat,2400.0
+2003,Manitoba,Wheat,2900.0
+2004,Manitoba,Wheat,3000.0
+2005,Manitoba,Wheat,2200.0
+2006,Manitoba,Wheat,2900.0
+2007,Manitoba,Wheat,2700.0
+2008,Manitoba,Wheat,3300.0
+2009,Manitoba,Wheat,3300.0
+2010,Manitoba,Wheat,2800.0
+2011,Manitoba,Wheat,2600.0
+2012,Manitoba,Wheat,3300.0
+2013,Manitoba,Wheat,3800.0
+2014,Manitoba,Wheat,3300.0
+2015,Manitoba,Wheat,3400.0
+2016,Manitoba,Wheat,3500.0
+2017,Manitoba,Wheat,3299.0
+2018,Manitoba,Wheat,4099.0
+2019,Manitoba,Wheat,4088.0
+2020,Manitoba,Wheat,4126.0
+2021,Manitoba,Wheat,3223.0
+2022,Manitoba,Wheat,4148.0
+2023,Manitoba,Wheat,4205.0
+2024,Manitoba,Wheat,4399.0
+2025,Manitoba,Wheat,4467.0
+2026,Manitoba,Wheat,4071.0
+2000,New Brunswick,Wheat,3400.0
+2001,New Brunswick,Wheat,3000.0
+2002,New Brunswick,Wheat,3900.0
+2003,New Brunswick,Wheat,2700.0
+2004,New Brunswick,Wheat,3100.0
+2005,New Brunswick,Wheat,3200.0
+2006,New Brunswick,Wheat,2200.0
+2007,New Brunswick,Wheat,3000.0
+2008,New Brunswick,Wheat,2600.0
+2009,New Brunswick,Wheat,2400.0
+2010,New Brunswick,Wheat,3300.0
+2011,New Brunswick,Wheat,3400.0
+2012,New Brunswick,Wheat,3200.0
+2013,New Brunswick,Wheat,3300.0
+2014,New Brunswick,Wheat,2800.0
+2015,New Brunswick,Wheat,3500.0
+2016,New Brunswick,Wheat,3400.0
+2017,New Brunswick,Wheat,3700.0
+2018,New Brunswick,Wheat,3452.0
+2019,New Brunswick,Wheat,3755.0
+2020,New Brunswick,Wheat,2750.0
+2021,New Brunswick,Wheat,3885.0
+2022,New Brunswick,Wheat,3730.0
+2023,New Brunswick,Wheat,2869.0
+2024,New Brunswick,Wheat,3375.0
+2025,New Brunswick,Wheat,3518.0
+2026,New Brunswick,Wheat,3333.0
+2018,Newfoundland and Labrador,Wheat,0.0
+2019,Newfoundland and Labrador,Wheat,0.0
+2000,Nova Scotia,Wheat,3700.0
+2001,Nova Scotia,Wheat,3100.0
+2002,Nova Scotia,Wheat,4400.0
+2003,Nova Scotia,Wheat,3300.0
+2004,Nova Scotia,Wheat,4000.0
+2005,Nova Scotia,Wheat,3700.0
+2006,Nova Scotia,Wheat,3400.0
+2007,Nova Scotia,Wheat,3300.0
+2008,Nova Scotia,Wheat,3900.0
+2009,Nova Scotia,Wheat,3700.0
+2010,Nova Scotia,Wheat,3300.0
+2011,Nova Scotia,Wheat,4600.0
+2012,Nova Scotia,Wheat,4200.0
+2013,Nova Scotia,Wheat,4000.0
+2014,Nova Scotia,Wheat,4200.0
+2015,Nova Scotia,Wheat,5100.0
+2016,Nova Scotia,Wheat,4900.0
+2017,Nova Scotia,Wheat,5100.0
+2018,Nova Scotia,Wheat,4800.0
+2019,Nova Scotia,Wheat,4056.0
+2020,Nova Scotia,Wheat,3688.0
+2021,Nova Scotia,Wheat,4480.0
+2022,Nova Scotia,Wheat,4825.0
+2023,Nova Scotia,Wheat,4587.0
+2024,Nova Scotia,Wheat,4680.0
+2025,Nova Scotia,Wheat,5203.0
+2026,Nova Scotia,Wheat,5047.0
+2000,Ontario,Wheat,4800.0
+2001,Ontario,Wheat,4600.0
+2002,Ontario,Wheat,4500.0
+2003,Ontario,Wheat,5000.0
+2004,Ontario,Wheat,4700.0
+2005,Ontario,Wheat,4400.0
+2006,Ontario,Wheat,5300.0
+2007,Ontario,Wheat,4600.0
+2008,Ontario,Wheat,5100.0
+2009,Ontario,Wheat,4700.0
+2010,Ontario,Wheat,5100.0
+2011,Ontario,Wheat,4900.0
+2012,Ontario,Wheat,5100.0
+2013,Ontario,Wheat,5200.0
+2014,Ontario,Wheat,5100.0
+2015,Ontario,Wheat,5100.0
+2016,Ontario,Wheat,5700.0
+2017,Ontario,Wheat,5600.0
+2018,Ontario,Wheat,5461.0
+2019,Ontario,Wheat,5007.0
+2020,Ontario,Wheat,5344.0
+2021,Ontario,Wheat,5889.0
+2022,Ontario,Wheat,6484.0
+2023,Ontario,Wheat,6437.0
+2024,Ontario,Wheat,6247.0
+2025,Ontario,Wheat,6373.0
+2026,Ontario,Wheat,6239.0
+2000,Prince Edward Island,Wheat,3600.0
+2001,Prince Edward Island,Wheat,2800.0
+2002,Prince Edward Island,Wheat,3700.0
+2003,Prince Edward Island,Wheat,3000.0
+2004,Prince Edward Island,Wheat,2600.0
+2005,Prince Edward Island,Wheat,3100.0
+2006,Prince Edward Island,Wheat,2800.0
+2007,Prince Edward Island,Wheat,3100.0
+2008,Prince Edward Island,Wheat,2600.0
+2009,Prince Edward Island,Wheat,3100.0
+2010,Prince Edward Island,Wheat,2700.0
+2011,Prince Edward Island,Wheat,3300.0
+2012,Prince Edward Island,Wheat,3500.0
+2013,Prince Edward Island,Wheat,3300.0
+2014,Prince Edward Island,Wheat,3200.0
+2015,Prince Edward Island,Wheat,3500.0
+2016,Prince Edward Island,Wheat,3500.0
+2017,Prince Edward Island,Wheat,3800.0
+2018,Prince Edward Island,Wheat,3730.0
+2019,Prince Edward Island,Wheat,3873.0
+2020,Prince Edward Island,Wheat,3494.0
+2021,Prince Edward Island,Wheat,4085.0
+2022,Prince Edward Island,Wheat,4683.0
+2023,Prince Edward Island,Wheat,4321.0
+2024,Prince Edward Island,Wheat,4127.0
+2025,Prince Edward Island,Wheat,4441.0
+2026,Prince Edward Island,Wheat,4888.0
+2000,Quebec,Wheat,3300.0
+2001,Quebec,Wheat,3200.0
+2002,Quebec,Wheat,3300.0
+2003,Quebec,Wheat,3100.0
+2004,Quebec,Wheat,3300.0
+2005,Quebec,Wheat,2900.0
+2006,Quebec,Wheat,2900.0
+2007,Quebec,Wheat,3100.0
+2008,Quebec,Wheat,2800.0
+2009,Quebec,Wheat,2700.0
+2010,Quebec,Wheat,3000.0
+2011,Quebec,Wheat,2800.0
+2012,Quebec,Wheat,3200.0
+2013,Quebec,Wheat,3100.0
+2014,Quebec,Wheat,3100.0
+2015,Quebec,Wheat,3500.0
+2016,Quebec,Wheat,3500.0
+2017,Quebec,Wheat,3200.0
+2018,Quebec,Wheat,3143.0
+2019,Quebec,Wheat,3408.0
+2020,Quebec,Wheat,2327.0
+2021,Quebec,Wheat,3634.0
+2022,Quebec,Wheat,3922.0
+2023,Quebec,Wheat,2775.0
+2024,Quebec,Wheat,3422.0
+2025,Quebec,Wheat,3585.0
+2026,Quebec,Wheat,3547.0
+2000,Saskatchewan,Wheat,2200.0
+2001,Saskatchewan,Wheat,1600.0
+2002,Saskatchewan,Wheat,1500.0
+2003,Saskatchewan,Wheat,1700.0
+2004,Saskatchewan,Wheat,2200.0
+2005,Saskatchewan,Wheat,2500.0
+2006,Saskatchewan,Wheat,2100.0
+2007,Saskatchewan,Wheat,1900.0
+2008,Saskatchewan,Wheat,2300.0
+2009,Saskatchewan,Wheat,2500.0
+2010,Saskatchewan,Wheat,2400.0
+2011,Saskatchewan,Wheat,2600.0
+2012,Saskatchewan,Wheat,2500.0
+2013,Saskatchewan,Wheat,3300.0
+2014,Saskatchewan,Wheat,2700.0
+2015,Saskatchewan,Wheat,2500.0
+2016,Saskatchewan,Wheat,3200.0
+2017,Saskatchewan,Wheat,2323.0
+2018,Saskatchewan,Wheat,2874.0
+2019,Saskatchewan,Wheat,3032.0
+2020,Saskatchewan,Wheat,3138.0
+2021,Saskatchewan,Wheat,1890.0
+2022,Saskatchewan,Wheat,2882.0
+2023,Saskatchewan,Wheat,2655.0
+2024,Saskatchewan,Wheat,3012.0
+2025,Saskatchewan,Wheat,3434.0
+2026,Saskatchewan,Wheat,3239.0
