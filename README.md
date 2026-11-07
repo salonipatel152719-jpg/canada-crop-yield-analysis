@@ -39,7 +39,7 @@ Python (pandas, matplotlib, seaborn), SQL (SQLite), Streamlit, Git
 4. **Query:** wrote five SQL queries (average yield by province, year-over-year
    change, top 3 provinces per crop, best and worst years, 5-year moving average).
 5. **Visualize:** built charts of trends, rankings, and a yield heatmap.
-6. **Present:** Streamlit dashboard (in progress).
+6. **Present:** built an interactive Streamlit dashboard with filters for crop, province, and year range.
 
 ## Charts
 
@@ -57,6 +57,14 @@ Python (pandas, matplotlib, seaborn), SQL (SQLite), Streamlit, Git
 
 ### Average yield across provinces
 ![Average trend](images/average_trend.png)
+
+## How to run
+    git clone https://github.com/YOUR-USERNAME/canada-crop-yield-analysis.git
+    cd canada-crop-yield-analysis
+    python -m venv venv
+    venv\Scripts\activate
+    pip install -r requirements.txt
+    streamlit run app/app.py
 
 ## Data notes
 - Yield is measured in kilograms per hectare.
@@ -77,8 +85,12 @@ Python (pandas, matplotlib, seaborn), SQL (SQLite), Streamlit, Git
 - Add weather data (Environment and Climate Change Canada) to study how rainfall
   and temperature affect yield.
 
-## Status
-In progress
+## Dashboard
+![Dashboard](images/dashboard.png)
+
+The Streamlit dashboard lets you filter by crop, province, and year range, and
+shows summary numbers, a yield trend chart, a province comparison, and the
+underlying data.
 
 ## Author
 Saloni Patel
