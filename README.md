@@ -19,8 +19,11 @@ Canadian provinces, and which provinces perform best?
   Manitoba ranks first for barley.
 - Saskatchewan has the lowest average wheat yield, but yield per hectare is
   not total production.
-- In 2021, average canola yield fell 14.0% and barley fell 5.9% from 2020,
-  while wheat rose 1.2%.
+- In 2021, average yields across the three Prairie provinces fell 38.1% for
+  barley, 26.7% for canola, and 32.3% for wheat compared with 2020. The
+  all-province average hid this for wheat (+1.2%) because Ontario and the
+  eastern provinces offset the western decline.
+- 2002 was the lowest year for all three crops in the Prairie provinces.
 
 ## Data source
 Statistics Canada, Table 32-10-0359-01: Estimated areas, yield, production,
@@ -39,7 +42,8 @@ Python (pandas, matplotlib, seaborn), SQL (SQLite), Streamlit, Git
 4. **Query:** wrote five SQL queries (average yield by province, year-over-year
    change, top 3 provinces per crop, best and worst years, 5-year moving average).
 5. **Visualize:** built charts of trends, rankings, and a yield heatmap.
-6. **Present:** built an interactive Streamlit dashboard with filters for crop, province, and year range.
+6. **Present:** built an interactive Streamlit dashboard with filters for crop,
+   province, and year range.
 
 ## Charts
 
@@ -58,8 +62,15 @@ Python (pandas, matplotlib, seaborn), SQL (SQLite), Streamlit, Git
 ### Average yield across provinces
 ![Average trend](images/average_trend.png)
 
+## Dashboard
+![Dashboard](images/dashboard.png)
+
+The Streamlit dashboard lets you filter by crop, province, and year range, and
+shows summary numbers, a yield trend chart, a province comparison, and the
+underlying data.
+
 ## How to run
-    git clone https://github.com/YOUR-USERNAME/canada-crop-yield-analysis.git
+    git clone https://github.com/salonipatel152719-jpg/canada-crop-yield-analysis.git
     cd canada-crop-yield-analysis
     python -m venv venv
     venv\Scripts\activate
@@ -78,19 +89,13 @@ Python (pandas, matplotlib, seaborn), SQL (SQLite), Streamlit, Git
 - Averages are simple means across provinces, not weighted by acreage or production.
 - Yield per hectare does not reflect total production.
 - 2026 values are preliminary and may be revised.
-- Weather, soil, and farming practices are not included in this analysis.
+- Weather, soil, and farming practices are not included, so the analysis shows
+  when yields dropped but cannot confirm why.
 
 ## Next steps
-- Build the Streamlit dashboard.
-- Add weather data (Environment and Climate Change Canada) to study how rainfall
-  and temperature affect yield.
-
-## Dashboard
-![Dashboard](images/dashboard.png)
-
-The Streamlit dashboard lets you filter by crop, province, and year range, and
-shows summary numbers, a yield trend chart, a province comparison, and the
-underlying data.
+- Add weather data (Environment and Climate Change Canada) to test whether
+  rainfall and temperature explain the 2002 and 2021 Prairie yield drops.
+- Build a yield forecasting model.
 
 ## Author
 Saloni Patel
